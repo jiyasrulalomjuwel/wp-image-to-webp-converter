@@ -50,4 +50,5 @@ Yes, to save server space, this plugin replaces the original file with the WebP 
 * **Security:** Enhanced documentation regarding local server processing.
 * **New Feature:** Added Bulk Selection and Floating Action Bar.
 * **New Feature:** Added Settings Page with Compression Quality Slider.
+
 * **Design:** Complete UI overhaul with a modern light theme.
