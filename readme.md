@@ -52,16 +52,28 @@ No API credits. No monthly payments. No hidden costs.
 
 ## 📦 Installation
 
-### Manual Installation
+### Method 1: Install via WordPress Dashboard (Recommended)
 
-1. Download the plugin.
+1. Download the plugin ZIP file.
+2. Go to your WordPress Dashboard.
+3. Navigate to **Plugins → Add New**.
+4. Click **Upload Plugin**.
+5. Select the ZIP file and click **Install Now**.
+6. Click **Activate Plugin**.
+7. Open **Webp Converter** from the dashboard menu.
+
+---
+
+### Method 2: Manual Installation via FTP
+
+1. Download and extract the plugin ZIP file.
 2. Upload the `webp-converter-pro` folder to:
    ```
    /wp-content/plugins/
    ```
-3. Activate the plugin from **WordPress Dashboard → Plugins**.
-4. Open **Webp Converter** from the dashboard menu.
-5. Select images and click **Convert**.
+3. Go to **WordPress Dashboard → Plugins**.
+4. Activate **Webp Converter Pro**.
+5. Open **Webp Converter** from the dashboard menu.
 
 ---
 
@@ -97,6 +109,11 @@ Yes. The original file is replaced with the WebP version to save storage space.
 - Complete UI redesign (modern light theme)
 
 ---
+
+## 📄 Contributors
+
+Developed By **Htmlrunner**  
+https://htmlrunner.com
 
 ## 📄 License
 
